@@ -30,6 +30,7 @@ public class RecyclerProductoAdapter extends RecyclerView.Adapter<RecyclerProduc
     private int layoutResource;
     private ArrayList<ProductoModel> arrayListProductos;
 
+
     public RecyclerProductoAdapter(Context mContext, int layoutResource, ArrayList<ProductoModel> arrayListProductos) {
         this.mContext = mContext;
         this.layoutResource = layoutResource;
