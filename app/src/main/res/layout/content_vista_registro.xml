@@ -15,8 +15,6 @@
             android:background="@color/colorAccent"
             app:title="funciona"
             />
-
-
     </android.support.design.widget.AppBarLayout>
 
 
