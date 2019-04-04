@@ -55,6 +55,9 @@ public class RecyclerProductoAdapter extends RecyclerView.Adapter<RecyclerProduc
         productoViewHolder.mNombreProducto.setText("Nombre: " + productoModel.getNombreProducto());
         productoViewHolder.mPrecioProducto.setText("Precio: "+(int)productoModel.getPrecioProducto() + " Bs");
 
+
+
+
         //cargar foto firebase
 
         Glide

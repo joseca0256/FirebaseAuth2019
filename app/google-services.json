@@ -29,10 +29,6 @@
             "package_name": "com.firebasetest.firebaseauth2019",
             "certificate_hash": "71849810c15bb422dafa707e9e826c21cb1dbf0e"
           }
-        },
-        {
-          "client_id": "182176956165-ole0efvm8l5us1vsiiicb7rgdfl471p9.apps.googleusercontent.com",
-          "client_type": 3
         }
       ],
       "api_key": [
@@ -41,20 +37,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "182176956165-ole0efvm8l5us1vsiiicb7rgdfl471p9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
