@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseAuth2019</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Signout">Signout</string>
+    <string name="CreateAccount">CreateAccount</string>
+    <string name="facebook_app_id">2337347559843366</string>
+    <string name="fb_login_protocol_scheme">fb2337347559843366</string>
+    <string name="SignIn">SignIn</string>
+    <string name="Crearcuenta">Crear Cuenta</string>
+    <string name="title_activity_vista_principal">vista_principal</string>
+    <string name="title_activity_vista_producto_detalle">VistaProductoDetalle</string>
+
+
+</resources>
